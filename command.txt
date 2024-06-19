@@ -1,0 +1,19 @@
+git clone https://github.com/aboogaad/learn.git
+
+cd .\learn\
+
+git add command.txt
+
+git commit -m "first change"
+
+git status
+
+git remote -v
+
+git branch
+
+git push origin main
+
+//i added file by gui 
+
+git pull origin
